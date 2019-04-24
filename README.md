@@ -1,4 +1,4 @@
 C++ SFML. 
-SFML Flappy Bird.
+Flappy Bird Clone
 Freshman
 
