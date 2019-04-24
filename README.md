@@ -1,2 +1,4 @@
-# C-
-SFML Flappy Bird 
+C++ SFML. 
+SFML Flappy Bird.
+Freshman
+
